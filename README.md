@@ -39,9 +39,3 @@ The repository is organized as follows:
 ## Acknowledgments
 We would like to thank Anna Vishnevsky, CEO of GenZero Strategy, for her support and collaboration throughout this project. We also extend our gratitude to Syracuse University for providing us with this opportunity to apply our consulting skills in a real-world setting.
 
-## Contact Information
-For any questions or further information, please contact the team at [ConsultClan@example.com](mailto:ConsultClan@example.com).
-
----
-
-**Note**: This README file is intended to provide an overview of the project and its contents. For detailed insights, please refer to the individual files and documents within the repository.
