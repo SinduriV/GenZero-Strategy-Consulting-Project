@@ -30,12 +30,3 @@ The repository is organized as follows:
 - **Deliverables**: Explore the specific recommendations and strategies proposed for GenZero Strategy.
 - **Market Research**: Analyze the competitive landscape and potential client list to understand the market positioning of GenZero Strategy.
 
-## Team Members
-- **Keshav Chinthakindi**
-- **Rashi Vinay Raut**
-- **Sai Sinduri Vangala**
-- **Yeshwanth Chalapathi Sureshkumar**
-
-## Acknowledgments
-We would like to thank Anna Vishnevsky, CEO of GenZero Strategy, for her support and collaboration throughout this project. We also extend our gratitude to Syracuse University for providing us with this opportunity to apply our consulting skills in a real-world setting.
-
